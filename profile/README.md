@@ -1,1 +1,1 @@
-![Banner](./GradientBanner.png)
+![Banner](profile/GradientBanner.png)
